@@ -1,7 +1,7 @@
 # Dapp-Learning-Arsenal  
 本仓库收录各类经典实用的区块链相关网站, 包括但不限于 NFT, Defi, Layer2 等, 并在持续更新中, 收录文档为 [ClassicWebSits](./ClassicWebSites.md)    
 
-同时, 仓库也收录了各类相关的 paper, 对应目为 [paper](./paper).  因文件较大, 仓库使用 git-lfs 进行文档的提交跟踪, 
+同时, 仓库也收录了各类相关的 paper, 对应目录为 [paper](./paper).  因文件较大, 仓库使用 git-lfs 进行文档的提交跟踪
 
 ## 安装 git-lfs   
 - Linux  
