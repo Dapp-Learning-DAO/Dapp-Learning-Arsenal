@@ -39,7 +39,7 @@ AMM 作市相关公式:  https://medium.com/anchordao-lab/automated-market-maker
 ## 金融   
 期权小白书: https://www.notion.so/af443219baa74d2b9c0471f608b269a3   
 链上信用:  https://wiki.arcx.money/token-and-governance/arcx-governance-token-arcx  
-
+部署和管理 DeFi 头寸:  https://weibo.com/ttarticle/p/show?id=2309404685998151041161&luicode=20000061&lfid=4685998149865552&featurecode=newtitle 
 
 ## Layer2    
 Defi Workshop - 从零搭建自己的Lending Pool:  https://www.bilibili.com/video/BV1Ef4y1w7GX  
@@ -57,7 +57,7 @@ zkSync:  https://wallet.zksync.io/deposit
 ## Web3 && 区块链学习  
 web3 101 种学习路径: https://learn.figment.io/pathways  
 MIT 区块链课程: https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm  
-
+区块链技能学习:  https://www.alchemy.com/  
 
 ## 合约  
 SMTChecker 检查合约漏洞:  https://learnblockchain.cn/article/3016  
