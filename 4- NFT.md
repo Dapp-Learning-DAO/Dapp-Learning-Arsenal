@@ -5,5 +5,7 @@ NFT 市场分析:  https://rarity.tools/
 NFT 的交易市场:  https://opensea.io/  
 跟踪无限数量的 Ethereum 地址和代币:  https://ethplorer.io/zh/  
 实时 NFT 评估:  https://upshot.io/  
+NFT 去中心化自治组织: https://blog.blackpool.finance/  
+NFT 游戏: https://axie.substack.com/p/axs-strategic-sale   
 
 
