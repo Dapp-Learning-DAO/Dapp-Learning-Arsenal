@@ -7,5 +7,6 @@ NFT 的交易市场:  https://opensea.io/
 实时 NFT 评估:  https://upshot.io/  
 NFT 去中心化自治组织: https://blog.blackpool.finance/  
 NFT 游戏: https://axie.substack.com/p/axs-strategic-sale   
+NFT收藏家6529关于NFT、meme、监管、他的收藏观点: https://twitter.com/punk6529/status/1429399888786333697  
 
 
