@@ -7,7 +7,8 @@ InstaDApp: https://www.fxajax.com/20210626023901.html
 DeFi 分析社区: https://uniwhales.io/  
 Defi 学习之道: https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/   
 curve的算法推导: https://medium.com/@cic.ethan/%E6%B7%BA%E8%AB%87%E7%A9%A9%E5%AE%9A%E5%B9%A3%E4%BA%92%E6%8F%9B%E6%A9%9F%E5%88%B6-%E5%BE%9E-balancer-%E5%88%B0-curve-f638f29b33f9  
-Defi 流动性分析: https://revert.finance/  
+Defi 流动性分析: https://revert.finance/   
+查看各个不同链上的 DEX:  https://defillama.com/protocols/dexes  
 
 ### 作市  
 Polygon 上的 Aave 用户的清算保护工具: https://www.cono.finance/assets  
