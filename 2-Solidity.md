@@ -5,5 +5,5 @@ Solidity教学视频: https://www.bilibili.com/video/BV1St411a7Pk?p=34&spm_id_fr
 
 ### 合约安全  
 SMTChecker 检查合约漏洞:  https://learnblockchain.cn/article/3016  
-GnosisSafe - 合约结构分析:  https://learnblockchain.cn/article/3028  
-
+GnosisSafe - 合约结构分析:  https://learnblockchain.cn/article/3028   
+如何编写安全的合约: https://github.com/crytic/building-secure-contracts    
