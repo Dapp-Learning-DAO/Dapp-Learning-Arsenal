@@ -38,6 +38,7 @@ $ brew install git-lfs
 可以使用普通的 git clone 克隆仓库, 也可以使用 git lfs 进行克隆, 当文件很多的时候, 使用 git lfs 可以加速克隆过程. 这里使用 git lfs 进行演示
 ```
 git lfs clone https://github.com/Dapp-Learning-DAO/Dapp-Learning-Arsenal.git
+
 ```
 
 

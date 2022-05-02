@@ -11,6 +11,9 @@
 美国证券交易委员会: https://www.sec.gov/news/press-release/2020-146   
 Web2.0与Web3.0应用之别:  https://zhuanlan.zhihu.com/p/414635679?utm_source=wechat_session&utm_medium=social&utm_oi=778564687968092160&s_r=0   
 福布斯公司商业杂志:  https://www.forbes.com/sites/kellyphillipserb/2020/09/14/irs-will-pay-up-to-625000-if-you-can-crack-monero-other-privacy-coins/?sh=35562dc285cc   
+加密火币交易所排名：https://zhuanlan.zhihu.com/p/375004945
+dapp学习工具： https://github.com/KenMan79/awesome-dapps
+
 闪电网络数据: 
 - https://1ml.com/  
 - https://explorer.acinq.co/  
