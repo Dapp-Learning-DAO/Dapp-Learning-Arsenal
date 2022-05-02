@@ -7,7 +7,8 @@ InstaDApp: https://www.fxajax.com/20210626023901.html
 DeFi 分析社区: https://uniwhales.io/  
 Defi 学习之道: https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/   
 curve的算法推导: https://medium.com/@cic.ethan/%E6%B7%BA%E8%AB%87%E7%A9%A9%E5%AE%9A%E5%B9%A3%E4%BA%92%E6%8F%9B%E6%A9%9F%E5%88%B6-%E5%BE%9E-balancer-%E5%88%B0-curve-f638f29b33f9  
-Defi 流动性分析: https://revert.finance/  
+Defi 流动性分析: https://revert.finance/   
+查看各个不同链上的 DEX:  https://defillama.com/protocols/dexes  
 
 ### 作市  
 Polygon 上的 Aave 用户的清算保护工具: https://www.cono.finance/assets  
@@ -27,7 +28,7 @@ AMM 作市相关公式:  https://medium.com/anchordao-lab/automated-market-maker
 在线数学工具:  https://www.desmos.com/calculator/youuxzbvr7?lang=zh-CN  
 资产管理工具(多签钱包):  https://gnosis-safe.io/  
 Defi项目TVL数据的专业分析工具: https://defillama.com  
+一站式 Defi 资产管理: https://zapper.fi/zh   
 
-
-
-
+## 游戏  
+Defi 游戏排名: https://playtoearn.net/new-blockchaingames  
